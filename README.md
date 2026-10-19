@@ -2,7 +2,7 @@
 
 Implementation of the mathmatical form:
 
-*f*(x) = -0.5 * (|x| ± x) + 100
+`*f*(x) = -0.5 * (|x| ± x) + 100`
 
 for an project.
 
