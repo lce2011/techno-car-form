@@ -26,3 +26,4 @@ Example:
 # Credits & Info
 
 [**nob.h**](https://github.com/tsoding/nob.h) by [tsoding](https://github.com/tsoding)
+[LICENSE](./LICENSE.md)
